@@ -1,0 +1,6 @@
+D:\Curd\Admin\bin\Debug\Admin.dll
+D:\Curd\Admin\bin\Debug\Admin.pdb
+D:\Curd\Admin\obj\Debug\Admin.csproj.AssemblyReference.cache
+D:\Curd\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+D:\Curd\Admin\obj\Debug\Admin.dll
+D:\Curd\Admin\obj\Debug\Admin.pdb

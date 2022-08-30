@@ -1,0 +1,95 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Curd\\ProjectPractice\\ProjectPractice.csproj": {}
+  },
+  "projects": {
+    "D:\\Curd\\Admin\\Admin.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Curd\\Admin\\Admin.csproj",
+        "projectName": "Admin",
+        "projectPath": "D:\\Curd\\Admin\\Admin.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Curd\\BankData\\BankData.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Curd\\BankData\\BankData.csproj",
+        "projectName": "BankData",
+        "projectPath": "D:\\Curd\\BankData\\BankData.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Curd\\ProjectPractice\\ProjectPractice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Curd\\ProjectPractice\\ProjectPractice.csproj",
+        "projectName": "ProjectPractice",
+        "projectPath": "D:\\Curd\\ProjectPractice\\ProjectPractice.csproj",
+        "packagesPath": "C:\\Users\\Shameema.Shaik\\.nuget\\packages\\",
+        "outputPath": "D:\\Curd\\ProjectPractice\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shameema.Shaik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Curd\\Admin\\Admin.csproj": {
+                "projectPath": "D:\\Curd\\Admin\\Admin.csproj"
+              },
+              "D:\\Curd\\BankData\\BankData.csproj": {
+                "projectPath": "D:\\Curd\\BankData\\BankData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
