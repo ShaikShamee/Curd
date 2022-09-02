@@ -1,0 +1,14 @@
+D:\Curd\Practice\bin\Debug\netcoreapp3.1\Practice.exe
+D:\Curd\Practice\bin\Debug\netcoreapp3.1\Practice.deps.json
+D:\Curd\Practice\bin\Debug\netcoreapp3.1\Practice.runtimeconfig.json
+D:\Curd\Practice\bin\Debug\netcoreapp3.1\Practice.runtimeconfig.dev.json
+D:\Curd\Practice\bin\Debug\netcoreapp3.1\Practice.dll
+D:\Curd\Practice\bin\Debug\netcoreapp3.1\Practice.pdb
+D:\Curd\Practice\obj\Debug\netcoreapp3.1\Practice.csproj.AssemblyReference.cache
+D:\Curd\Practice\obj\Debug\netcoreapp3.1\Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curd\Practice\obj\Debug\netcoreapp3.1\Practice.AssemblyInfoInputs.cache
+D:\Curd\Practice\obj\Debug\netcoreapp3.1\Practice.AssemblyInfo.cs
+D:\Curd\Practice\obj\Debug\netcoreapp3.1\Practice.csproj.CoreCompileInputs.cache
+D:\Curd\Practice\obj\Debug\netcoreapp3.1\Practice.dll
+D:\Curd\Practice\obj\Debug\netcoreapp3.1\Practice.pdb
+D:\Curd\Practice\obj\Debug\netcoreapp3.1\Practice.genruntimeconfig.cache
