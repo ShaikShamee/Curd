@@ -1,0 +1,14 @@
+D:\Curd\PracticeCollect\bin\Debug\netcoreapp3.1\PracticeCollect.exe
+D:\Curd\PracticeCollect\bin\Debug\netcoreapp3.1\PracticeCollect.deps.json
+D:\Curd\PracticeCollect\bin\Debug\netcoreapp3.1\PracticeCollect.runtimeconfig.json
+D:\Curd\PracticeCollect\bin\Debug\netcoreapp3.1\PracticeCollect.runtimeconfig.dev.json
+D:\Curd\PracticeCollect\bin\Debug\netcoreapp3.1\PracticeCollect.dll
+D:\Curd\PracticeCollect\bin\Debug\netcoreapp3.1\PracticeCollect.pdb
+D:\Curd\PracticeCollect\obj\Debug\netcoreapp3.1\PracticeCollect.csproj.AssemblyReference.cache
+D:\Curd\PracticeCollect\obj\Debug\netcoreapp3.1\PracticeCollect.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curd\PracticeCollect\obj\Debug\netcoreapp3.1\PracticeCollect.AssemblyInfoInputs.cache
+D:\Curd\PracticeCollect\obj\Debug\netcoreapp3.1\PracticeCollect.AssemblyInfo.cs
+D:\Curd\PracticeCollect\obj\Debug\netcoreapp3.1\PracticeCollect.csproj.CoreCompileInputs.cache
+D:\Curd\PracticeCollect\obj\Debug\netcoreapp3.1\PracticeCollect.dll
+D:\Curd\PracticeCollect\obj\Debug\netcoreapp3.1\PracticeCollect.pdb
+D:\Curd\PracticeCollect\obj\Debug\netcoreapp3.1\PracticeCollect.genruntimeconfig.cache
